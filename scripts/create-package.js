@@ -233,10 +233,10 @@ async function createPackage(options) {
       task: () => appendToSrc(options),
       skip: () => options.noCopy === true,
     },
-    {
-      title: "Add shortcut to root package.json",
-      task: () => editRootPackageJson(options),
-    }
+    // {
+    //   title: "Add shortcut to root package.json",
+    //   task: () => editRootPackageJson(options),
+    // }
   ])
 
   await tasks.run()
