@@ -25,9 +25,6 @@
   "files": [
     "dist"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
   "scripts": {
     "prebuild": "rimraf dist",
     "start": "nodemon --watch src --exec yarn build -e ts,tsx",
