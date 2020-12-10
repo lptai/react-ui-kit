@@ -15,7 +15,7 @@ import { useButtonGroup } from "./button-group"
 
 export interface ButtonOptions {
   /**
-   * If `true`, the button will show a spinner.
+   * If `true`, the button will show a spinner..
    */
   isLoading?: boolean
   /**
