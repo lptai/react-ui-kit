@@ -51,5 +51,5 @@
     "@chakra-ui/system": ">=1.0.0",
     "react": "16.x || 17.x"
   },
-  "gitHead": "9810a45f206870730e52b797c93a8bdb8a9578cb"
+  "gitHead": "dea95ea05d14c4233a589541167a052bd20aedfa"
 }
