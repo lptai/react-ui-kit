@@ -1,9 +1,6 @@
 {
   "name": "tyme-ui",
   "private": true,
-  "publishConfig":{
-    "registry":"https://tyme-ui-632965785856.d.codeartifact.eu-west-1.amazonaws.com/npm/tyme-ui/"
-  },
   "workspaces": {
     "packages": [
       "packages/*",

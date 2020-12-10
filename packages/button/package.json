@@ -10,9 +10,6 @@
     "clickable",
     "tabbable"
   ],
-  "publishConfig": {
-    "registry": "https://tyme-ui-632965785856.d.codeartifact.eu-west-1.amazonaws.com/npm/tyme-ui/"
-  },
   "sideEffects": false,
   "license": "MIT",
   "main": "dist/cjs/index.js",
@@ -53,5 +50,6 @@
   "peerDependencies": {
     "@chakra-ui/system": ">=1.0.0",
     "react": "16.x || 17.x"
-  }
+  },
+  "gitHead": "ff6dd65627eabea1a97f1542158bc0d0b7e132f4"
 }
