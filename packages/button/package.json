@@ -1,6 +1,6 @@
 {
   "name": "@tyme-ui/button",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "A React component that is a base button.",
   "keywords": [
     "button",
@@ -10,8 +10,8 @@
     "clickable",
     "tabbable"
   ],
-  "publishConfig":{
-    "registry":"https://tyme-ui-632965785856.d.codeartifact.eu-west-1.amazonaws.com/npm/tyme-ui/"
+  "publishConfig": {
+    "registry": "https://tyme-ui-632965785856.d.codeartifact.eu-west-1.amazonaws.com/npm/tyme-ui/"
   },
   "sideEffects": false,
   "license": "MIT",
