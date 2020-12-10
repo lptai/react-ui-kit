@@ -21,9 +21,9 @@ aws codeartifact login --profile taile --tool npm \
 --domain "tyme" --domain-owner "004944577623" \
 --repository "react-ui-kit"
 
-aws codeartifact get-authorization-token \
---domain "tyme" --domain-owner "004944577623" \
---query authorizationToken --output text --profile taile1
+aws codeartifact login --profile sandbox --tool npm \
+--domain "tyme" \
+--repository "react-ui-kit"
 
 ### Set registry
 
