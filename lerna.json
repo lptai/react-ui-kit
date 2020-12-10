@@ -3,7 +3,7 @@
   "version": "independent",
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "registry": "https://registry.npmjs.org/",
+  "registry": "https://tyme-ui-632965785856.d.codeartifact.eu-west-1.amazonaws.com/npm/tyme-ui/",
   "command": {
     "version": { "exact": true },
     "publish": {
